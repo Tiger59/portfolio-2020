@@ -1,4 +1,5 @@
 module.exports = {
-    publicPath: '/portforio-2020/',
+    assetsDir: './',
+    publicPath: './',
     outputDir: 'docs'
 }
